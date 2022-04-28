@@ -1,0 +1,9 @@
+body {
+    background-color: darkgoldenrod;
+}
+
+div p {
+    color: white;
+    font-size: 100px;
+    font-weight: bold;
+}
